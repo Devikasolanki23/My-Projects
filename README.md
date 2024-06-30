@@ -1,2 +1,2 @@
-# My-Projects
+# My-EcommerceProject
 Here are my projects 
